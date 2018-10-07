@@ -1,0 +1,14 @@
+{
+  "name": "simpleserial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "p5.serialserver": "0.0.25"
+  }
+}
